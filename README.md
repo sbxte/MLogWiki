@@ -1,3 +1,4 @@
+[English](README.md)|[Chinese](README_CN.md)
 <h1 align="center">Mindustry Logic Wiki</h1>
 <p align="center" style="font-style:italic">
 This wiki is intended for the latest version (v7) of mindustry. This wiki is still under development.
