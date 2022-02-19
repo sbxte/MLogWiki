@@ -1,7 +1,7 @@
 [英文](README.md)|[中文](README_CN.md)
 <h1 align="center">Mindustry逻辑Wiki</h1>
 <p align="center" style="font-style:italic">
-本Wiki基于最新版本的Mindustry（v7）. 本Wiki仍在开发中.
+本Wiki基于最新版本的Mindustry(v7). 本Wiki仍在开发中.
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/logic/micro-processor.png" width="100">
