@@ -1,3 +1,4 @@
+[English](variables.md)|[Chinese](variables_CN.md)
 # Variables
 
 Variables, almost any information in mindustry can be stored in them.
