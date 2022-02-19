@@ -1,9 +1,18 @@
-# Mindustry Logic Wiki
-
+<h1 align="center">Mindustry Logic Wiki</h1>
+<p align="center" style="font-style:italic">
+This wiki is intended for the latest version (v7) of mindustry. This wiki is still under development.
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/logic/micro-processor.png" width="100">
+</p>
+<p align="center">
 A wiki for mindustry logic.
 Perhaps a good place for newbies to start.
+</p>
+<div></div>
 
-**Currently under development.**
+
+
 
 # Contents
 
