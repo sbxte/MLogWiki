@@ -1,4 +1,3 @@
-[英文](print.md)|[中文](print_CN.md)
 # Print
 
 `print`和`printflush`是用于使被链接的信息板显示文本的2条指令.
