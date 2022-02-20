@@ -59,3 +59,62 @@ printflush message1
 ![image](https://user-images.githubusercontent.com/94273523/154833097-0b4a2f8f-a566-46bc-b426-bf213141888e.png)
 
 Notice how the lines cut off at 24. The same thing applies for characters, except the limit is 200 instead of 24.
+
+## Color coding
+
+You can colorize your printed texts with colors. The syntax is quite simple,
+```
+"[red] this is a red text!"
+printflush message1
+```
+
+<details>
+<summary>Tap on me to reveal list of color Codes</summary>
+
+- white = #ffffffff
+- lightGray = #bfbfbfff
+- gray = #7f7f7fff
+- darkGray = #3f3f3fff
+- black = #000000ff
+- clear = #00000000
+- blue = #0000ffff
+- navy = #0080ffff
+- royal = #4169e1ff
+- slate = #708090ff
+- sky = #87ceebff
+- cyan = #00ffffff
+- teal = #008080ff
+- green = #00ff00ff
+- acid = #7fff00ff
+- lime = #32cd32ff
+- forest = #228b22ff
+- olive = #6b8e23ff
+- yellow = #ffff00ff
+- gold = #ffd700ff
+- goldenrod = #daa520ff
+- orange = #ffa500ff
+- brown = #8b4513ff
+- tan = #d2b48cff
+- brick = #b22222ff
+- red = #ff0000ff
+- scarlet = #ff341cff
+- crimson = #dc143cff
+- coral = #ff7f50ff
+- salmon = #fa8072ff
+- pink = #ff69b4ff
+- magenta = #ff00ffff
+- purple = #a020f0ff
+- violet = #ee82eeff
+- maroon = #b03060ff
+
+> Taken from [Color.java](https://github.com/Anuken/Arc/blob/master/arc-core/src/arc/graphics/Color.java) and [Colors.java](https://github.com/Anuken/Arc/blob/master/arc-core/src/arc/graphics/Colors.java)
+</details>
+
+
+Or you can directly input hex codes. For example,
+```
+print "[#ff0000] This is a red text!\n"
+print "[#00ff00] This is a green text!\n"
+print "[#0000ff] This is a green text!"
+printflush message1
+```
