@@ -15,7 +15,7 @@ print a
 printflush message1
 ```
 
-你还可以在多个打印内容打印到信息板之前将其链接起来.
+你还可以在多个打印内容刷新到信息板之前将其链接起来.
 ```
 print "A "
 print "B "
