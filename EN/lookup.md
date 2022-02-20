@@ -60,7 +60,6 @@ It can be used to look up a unit/item/liquid/building type by index.
 1. lead
 1. metaglass
 1. graphite
-1. silicon
 1. coal
 1. sand
 1. titanium

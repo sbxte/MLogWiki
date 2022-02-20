@@ -1,7 +1,7 @@
 [<< 返回中文主页](README_CN.md)
 # 打印 (Print)
 
-`print`和`printflush`是用于使被链接的信息板显示文本的2条指令.
+`print`和`printflush`是用于使被连接的信息板显示文本的2条指令.
 在被连接的信息板上执行`printflush`之前, 执行`print`会一直保存文本.
 
 你可以打印字符串(strings),
@@ -55,3 +55,61 @@ printflush message1
 ![image](https://user-images.githubusercontent.com/94273523/154833097-0b4a2f8f-a566-46bc-b426-bf213141888e.png)
 
 请注意这些新行是如何在第24行隔断的. 该效果同样适用于字符, 但字符的上限是200而非24.
+
+## 颜色代码 (Color coding)
+
+你可以用颜色给打印出来的文本上色. 语法很简单,
+```
+"[red]这是一条红色文本!"
+printflush message1
+```
+
+<details>
+<summary>点击我以显示颜色代码列表</summary>
+
+- white = #ffffffff
+- lightGray = #bfbfbfff
+- gray = #7f7f7fff
+- darkGray = #3f3f3fff
+- black = #000000ff
+- clear = #00000000
+- blue = #0000ffff
+- navy = #0080ffff
+- royal = #4169e1ff
+- slate = #708090ff
+- sky = #87ceebff
+- cyan = #00ffffff
+- teal = #008080ff
+- green = #00ff00ff
+- acid = #7fff00ff
+- lime = #32cd32ff
+- forest = #228b22ff
+- olive = #6b8e23ff
+- yellow = #ffff00ff
+- gold = #ffd700ff
+- goldenrod = #daa520ff
+- orange = #ffa500ff
+- brown = #8b4513ff
+- tan = #d2b48cff
+- brick = #b22222ff
+- red = #ff0000ff
+- scarlet = #ff341cff
+- crimson = #dc143cff
+- coral = #ff7f50ff
+- salmon = #fa8072ff
+- pink = #ff69b4ff
+- magenta = #ff00ffff
+- purple = #a020f0ff
+- violet = #ee82eeff
+- maroon = #b03060ff
+
+> 摘自[Color.java](https://github.com/Anuken/Arc/blob/master/arc-core/src/arc/graphics/Color.java) 和[Colors.java](https://github.com/Anuken/Arc/blob/master/arc-core/src/arc/graphics/Colors.java)
+</details>
+
+或者你可以直接输入十六进制代码, 例如,
+```
+print "[#ff0000] 这是一条红色文本!\n"
+print "[#00ff00] 这是一条绿色文本!\n"
+print "[#0000ff] 这是另一条绿色文本!"
+printflush message1
+```
