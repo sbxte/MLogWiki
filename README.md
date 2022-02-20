@@ -30,3 +30,9 @@ Contents in this wiki:
 
 If you'd like to contribute additional information or perhaps see a possible improvement,
 feel free to submit a pull request.
+
+# To Do
+
+- Add in-game images depicting the logic examples.
+- Translate into more languages.
+- *Wiki Logo?*
