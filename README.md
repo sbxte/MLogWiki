@@ -22,9 +22,10 @@ This wiki is available in multiple languages.
 Contents in this wiki:
 - [Prints](EN/print.md)
 - [Variables](EN/variables.md)
-    - [Set](EN/set.md)
-    - [Operation](EN/op.md)
+- [Set](EN/set.md)
+- [Operation](EN/op.md)
 - [Control flow (jumping)](EN/controlflow.md)
+- [Getlink](EN/getlink.md)
 
 # Additional Resources
 
