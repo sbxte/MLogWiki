@@ -41,6 +41,10 @@ Processor specific:
 - `@ipt` - The processor's instruction per tick speed. Its 2 for a microprocessor, 8 for a logic processor, and 25 for a hyperprocessor.
 - `@links` - The amount of buildings linked to a processor. This is often used to iterate through buildings with `getlink`
 
+Time (same for all processors across the map):
+- `@time` - The amount of microseconds from when the save was loaded/game started.
+- `@ticks` - The amount of ticks from when the save was loaded/game started.
+
 Map specific:
 - `@maph` - The map's height.
 - `@mapw` - The map's width.
