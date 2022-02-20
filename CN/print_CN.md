@@ -1,4 +1,4 @@
-[<< 返回中文主页](CN/README_CN.md)
+[<< 返回中文主页](README_CN.md)
 # 打印 (Print)
 
 `print`和`printflush`是用于使被链接的信息板显示文本的2条指令.
