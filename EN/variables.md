@@ -10,11 +10,16 @@ Just like other programming languages, they are the core of mlog.
 - Integers/Floats
 - Booleans
 - String literals
-- Entities (Units and Buildings)
-- Entity Types (Unit types and building types)
+- Units
+- Unit Types
+- Buildings
+- Building Types
+- Item Types
+- Liquid Types
+- Sensables (Used in sensor)
 - Tile Type
 
-Sensoring properties only works entities.
+Sensoring only works entities.
 
 ## Set and Operation
 
@@ -37,6 +42,10 @@ Processor specific:
 - `@thisy` - The processor's y coordinate. Whole numbers for odd width processors and fractional for even widths.
 - `@ipt` - The processor's instruction per tick speed. Its 2 for a microprocessor, 8 for a logic processor, and 25 for a hyperprocessor.
 - `@links` - The amount of buildings linked to a processor. This is often used to iterate through buildings with `getlink`
+
+Time (same for all processors across the map):
+- `@time` - The amount of microseconds from when the save was loaded/game started.
+- `@ticks` - The amount of ticks from when the save was loaded/game started.
 
 Map specific:
 - `@maph` - The map's height.
