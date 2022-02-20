@@ -22,3 +22,4 @@ Where `unit_reference` is the previously saved unit.
 - You can bind core units! but you can't run any unit instruction on them, though other instructions like `sensor` would still work.
 - `@unit`, as well as other saved references will be wiped out after map reload. So be careful.
 - You can't bind multiple units at the same time, as they will overwrite each other.
+- Binding a unit doesn't mark it as controlled (`@controlled`)
