@@ -1,3 +1,4 @@
+[<< return to main page](../README.md)
 # Variables
 
 Variables, almost any information in mindustry can be stored in them.
