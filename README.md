@@ -1,4 +1,3 @@
-[English](README.md)|[Chinese](CN/README_CN.md)
 <h1 align="center">Mindustry Logic Wiki</h1>
 <p align="center" style="font-style:italic">
 This wiki is intended for the latest version (v7) of mindustry. This wiki is still under development.
@@ -14,11 +13,15 @@ Perhaps a good place for newbies to start.
 
 
 
-
 # Contents
 
-... Yada yada yada.
-- `print`, `printflush` can be found in [the print section](print.md)
+This wiki is available in multiple languages.
+- [English](README.md)
+- [Chinese](CN/README_CN.md)
+
+Contents in this wiki:
+- [Prints](EN/print.md)
+- [Variables](EN/variables.md)
 
 
 # Contributing
