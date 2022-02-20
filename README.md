@@ -31,6 +31,17 @@ Contents in this wiki:
 If you'd like to contribute additional information or perhaps see a possible improvement,
 feel free to submit a pull request.
 
+Translation file hierarchy ("lang" follows mindustry bundles 2 letter format):
+```
+README.md
+EN/
+*   (wiki contents)
+
+(lang)/
+*   README_(lang).md
+*   (wiki contents)
+```
+
 # To Do
 
 - Add in-game images depicting the logic examples.
