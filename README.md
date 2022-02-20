@@ -24,6 +24,7 @@ Contents in this wiki:
 - [Variables](EN/variables.md)
     - [Set](EN/set.md)
     - [Operation](EN/op.md)
+- [Control flow (jumping)][EN/controlflow.md]
 
 # Additional Resources
 
