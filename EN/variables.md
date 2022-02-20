@@ -10,11 +10,14 @@ Just like other programming languages, they are the core of mlog.
 - Integers/Floats
 - Booleans
 - String literals
-- Entities (Units and Buildings)
-- Entity Types (Unit types and building types)
+- Units
+- Unit Types
+- Buildings
+- Building Types
+- Sensables (Used in sensor)
 - Tile Type
 
-Sensoring properties only works entities.
+Sensoring only works entities.
 
 ## Set and Operation
 
