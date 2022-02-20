@@ -1,7 +1,8 @@
+[<< return to main page](../README.md)
 # Print
 
 `print` and `printflush` are the 2 instructions you use to display text unto a linked message block.
-Doing `print` holds the text until `printflush` is performed on a linked memory cell.
+Doing `print` holds the text until `printflush` is performed on a linked message block.
 
 You can print strings,
 ```
