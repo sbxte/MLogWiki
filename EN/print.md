@@ -1,4 +1,5 @@
 [<< return to main page](../README.md)
+[<< return to main page](../README.md)
 # Print
 
 `print` and `printflush` are the 2 instructions you use to display text unto a linked message block.
