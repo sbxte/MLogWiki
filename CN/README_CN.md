@@ -22,10 +22,10 @@
 - [中文](README_CN.md)
 
 本Wiki中的内容:
-- [打印](CN/print_CN.md)(Prints)
-- [变量](CN/variables_CN.md)(Variables)
-    - [赋值](CN/set_CN.md)(Set)
-    - [运算](CN/op_CN.md)(Operation)
+- [打印](print_CN.md)(Prints)
+- [变量](variables_CN.md)(Variables)
+    - [赋值](set_CN.md)(Set)
+    - [运算](op_CN.md)(Operation)
 
 # 额外资料
 
