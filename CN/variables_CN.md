@@ -1,4 +1,4 @@
-[<< 返回中文主页](CN/README_CN.md)
+[<< 返回中文主页](README_CN.md)
 #  变量 (Variables)
 
 变量, Mindustry中几乎所有的信息都可以储存进其中.
