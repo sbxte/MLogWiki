@@ -26,6 +26,7 @@ Contents in this wiki:
 - [Operation](EN/op.md)
 - [Control flow (jumping)](EN/controlflow.md)
 - [Getlink](EN/getlink.md)
+- [Lookup](EN/lookup.md) <!-- mlog built-in spreadsheet lel-->
 
 # Additional Resources
 

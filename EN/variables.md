@@ -14,6 +14,8 @@ Just like other programming languages, they are the core of mlog.
 - Unit Types
 - Buildings
 - Building Types
+- Item Types
+- Liquid Types
 - Sensables (Used in sensor)
 - Tile Type
 
