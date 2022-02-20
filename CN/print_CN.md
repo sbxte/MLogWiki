@@ -1,7 +1,8 @@
-# Print
+[<< 返回中文主页](CN/README_CN.md)
+# 打印 (Print)
 
 `print`和`printflush`是用于使被链接的信息板显示文本的2条指令.
-在被连接的内存元上执行`printflush`之前, 执行`print`会一直保存文本.
+在被连接的信息板上执行`printflush`之前, 执行`print`会一直保存文本.
 
 你可以打印字符串(strings),
 ```
