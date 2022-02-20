@@ -30,7 +30,7 @@
 # 额外资料
 
 除了本Wiki, 还有这些资料可以帮助你解答有关Mindustry逻辑的问题.
-- [Highfire1的逻辑问答 (on the mindustry discord)](https://discord.com/channels/391020510269669376/742769933926269069/869780706052694036)
+- [Highfire1的逻辑问答 (在Mindustry的Discord中)](https://discord.com/channels/391020510269669376/742769933926269069/869780706052694036)
 - [官方Mindustry Wiki](https://mindustrygame.github.io/wiki/logic/0-introduction/)
 - [单位物品的数据表](https://docs.google.com/spreadsheets/d/1SSjyXksK-T47bs8-kjzEd0IY8GRl9gsZrn_UYB6NLDg/edit?usp=sharing)
 
