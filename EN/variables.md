@@ -15,9 +15,11 @@ Just like other programming languages, they are the core of mlog.
 
 Sensoring properties only works entities.
 
-## Set
+## Set and Operation
 
-`set` is an instruction used to set a variable's contents. By default any variable has nothing (`null`) stored in them.
+By default any variable has nothing (`null`) stored in them.
+- `set` is an instruction used to set a variable's contents. *[Read further about set](set.md)*
+- `op` is an instruction used to perform an operation on a variable's contents. `op` is mainly used for mathematical operations on integer/float type variables, but can "work" on others due to coercion. *[Read further about op](op.md)*
 
 ## Coercion
 
