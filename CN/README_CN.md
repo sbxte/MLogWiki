@@ -1,4 +1,3 @@
-[英文](../README.md)|[中文](README_CN.md)
 <h1 align="center">Mindustry逻辑Wiki</h1>
 <p align="center" style="font-style:italic">
 本Wiki基于最新版本的Mindustry(v7). 本Wiki仍在开发中.
@@ -17,8 +16,13 @@
 
 # 目录
 
-... 这样的那样的.
-- `print`和`printflush`可在[Print部分](print_CN.md)找到.
+本Wiki有多个语言版本.
+- [英文](../README.md)
+- [中文](README_CN.md)
+
+本Wiki中的内容:
+- [打印](CN/print_CN.md)(Prints)
+- [变量](CN/variables_CN.md)(Variables)
 
 
 # 贡献

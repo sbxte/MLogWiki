@@ -1,9 +1,48 @@
-[英文](variables.md)|[中文](variables_CN.md)
-# Variables
+#  变量 (Variables)
 
-变量 (Variables), Mindustry中几乎所有的信息都可以储存进其中.
+变量, Mindustry中几乎所有的信息都可以储存进其中.
 就像其他编程语言一样, 它们是Mlog的核心.
 
-## Set
+## 数据类型 (Data Types)
+
+- 整数/浮点数
+- 布尔值
+- 字符串字面值
+- 实体 (单位和建筑)
+- 实体类型 (单位种类和建筑种类)
+- 物块类型
+
+探测 (Sensoring)属性仅对实体有效.
+
+## 赋值 (Set)
 
 `set`是用于设置变量内容的指令. 默认情况下它们所储存的变量值都是`null`.
+
+## Coercion
+
+*还没写*
+
+## 未列出的变量 (Unlisted variables)
+
+这些变量无法在传感器指令或核心数据库中找到.
+
+处理器独有:
+- `@counter` - 处理器当前正在执行的指令的索引. 该索引从0开始, 即第一条指令位于0, 而不是1.
+- `@unit` - 处理器当前绑定的单位.
+- `@thisx` - 处理器当前的X坐标. 奇数宽度时处理器为整数, 偶数宽度时处理器为小数. Whole numbers for odd width processors and fractional for even widths.
+- `@thisy` - 处理器当前的Y坐标. 奇数宽度时处理器为整数, 偶数宽度时处理器为小数. Whole numbers for odd width processors and fractional for even widths.
+- `@ipt` - 逻辑处理器每帧执行的指令条数. 微型处理器为2, 逻辑处理器为8, 超核处理器为25.
+- `@links` - 处理器连接的建筑数量. 这通常用于与`getlink`一起使用以遍历建筑.
+
+地图独有:
+- `@maph` - 地图的高度.
+- `@mapw` - 地图的宽度.
+
+物块类型 (可以使用`jump`对照存储在变量中的物块来检查这些)
+- `@air` - 可以进行建造/行走的空气物块.
+- `@solid` - 无法进行建造或行走的实体物块 (例如墙壁和地形).
+
+指挥中心独有:
+- `@commandAttack`
+- `@commandRally`
+- `@commandIdle`

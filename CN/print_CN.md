@@ -1,8 +1,7 @@
-[英文](print.md)|[中文](print_CN.md)
 # Print
 
 `print`和`printflush`是用于使被链接的信息板显示文本的2条指令.
-在链接的存储单元上执行`printflush`之前, 执行`print`会一直保存文本.
+在被连接的内存元上执行`printflush`之前, 执行`print`会一直保存文本.
 
 你可以打印字符串(strings),
 ```
@@ -16,7 +15,7 @@ print a
 printflush message1
 ```
 
-你还可以在多个打印内容打印到信息板之前将其链接起来.
+你还可以在多个打印内容刷新到信息板之前将其链接起来.
 ```
 print "A "
 print "B "
