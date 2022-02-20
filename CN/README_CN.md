@@ -24,8 +24,11 @@
 本Wiki中的内容:
 - [打印](print_CN.md)(Prints)
 - [变量](variables_CN.md)(Variables)
-    - [赋值](set_CN.md)(Set)
-    - [运算](op_CN.md)(Operation)
+- [赋值](set_CN.md)
+- [运算](op_CN.md)
+- [控制流 (跳转)](controlflow_CN.md)
+- [获取连接](getlink_CN.md)
+- [检索](lookup_CN.md) <!-- mlog built-in spreadsheet lel-->
 
 # 额外资料
 
