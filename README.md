@@ -25,8 +25,10 @@ Contents in this wiki:
 - [Set](EN/set.md)
 - [Operation](EN/op.md)
 - [Control flow (jumping)](EN/controlflow.md)
+- [Unit Bind](EN/ubind.md)
 - [Getlink](EN/getlink.md)
-- [Lookup](EN/lookup.md) <!-- mlog built-in spreadsheet lel-->
+- [Lookup](EN/lookup.md)
+- [Editing](EN/editing.md)
 
 # Additional Resources
 
