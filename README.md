@@ -23,7 +23,7 @@ Contents in this wiki:
 - [Prints](EN/print.md)
 - [Variables](EN/variables.md)
     - [Set](EN/set.md)
-    - [Operation](EN/set.md)
+    - [Operation](EN/op.md)
 
 
 # Contributing
