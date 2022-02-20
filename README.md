@@ -25,6 +25,12 @@ Contents in this wiki:
     - [Set](EN/set.md)
     - [Operation](EN/op.md)
 
+# Additional Resources
+
+In addition to this wiki, these resources can help you with questions regarding mindustry logic.
+- [Highfire1's Logic FAQ (on the mindustry discord)](https://discord.com/channels/391020510269669376/742769933926269069/869780706052694036)
+- [Official Mindustry Wiki](https://mindustrygame.github.io/wiki/logic/0-introduction/)
+- [Unit Item/s Spreadsheet](https://docs.google.com/spreadsheets/d/1SSjyXksK-T47bs8-kjzEd0IY8GRl9gsZrn_UYB6NLDg/edit?usp=sharing)
 
 # Contributing
 
