@@ -28,7 +28,10 @@
 - [运算](op_CN.md)
 - [控制流 (跳转)](controlflow_CN.md)
 - [获取连接](getlink_CN.md)
-- [检索](lookup_CN.md) <!-- mlog built-in spreadsheet lel-->
+- [单位绑定](ubind_CN.md)
+- [获取连接](getlink_CN.md)
+- [检索](lookup_CN.md)
+- [编辑](editing_CN.md)
 
 # 额外资料
 
