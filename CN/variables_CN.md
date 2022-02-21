@@ -18,8 +18,6 @@
 - 可探测 Sensables (在传感器中使用)
 - 物块类型
 
-Sensoring only works entities.
-
 探测 (Sensoring) 属性仅对实体有效.
 
 ## 赋值和运算 (Set and Operation)
