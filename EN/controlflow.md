@@ -7,7 +7,7 @@ When it finishes executing the last instruction, it loops back to the start auto
 
 ## Jumps
 
-Jumps can be used to jump/skip straight to a specific instruction.
+Jumps can be used to jump/skip straight to a specific instruction. *(checkout [editing](editing.md) for more on jump labels)*
 For example,
 ```
 print "Hello!\n"
@@ -27,6 +27,21 @@ Jumps have 8 operators *([check out the op section](op.md))*:
 - `>=` greater than or equal to
 - `<=` less than or equal to
 - `always` always jumps regardless of conditions
+
+### If-else
+
+An example of if-else statements
+```
+set a 3
+jump else notEqual a 3
+    print "A is 3"
+    jump end_if_else always 0
+else:
+    print "A is not 3"
+end_if_else:
+
+printflush message1
+```
 
 ## End
 
