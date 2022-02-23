@@ -7,7 +7,7 @@
 
 ## 跳转 (Jumps)
 
-跳转指令可用于直接跳转/跳过到特定指令.
+跳转指令可用于直接跳转/跳过到特定指令. *(有关跳转标签的更多信息, 请查看[编辑](editing_CN.md))*
 举个例子,
 ```
 print "你好!\n"
@@ -27,6 +27,20 @@ printflush message1
 - `>=` 大于或等于
 - `<=` 小于或等于
 - `always` 无论条件如何, 总是跳转
+- 
+### 条件判断 (If-else)
+
+一个条件判断语句的例子
+```
+set a 3
+jump else notEqual a 3
+    print "A是3"
+    jump end_if_else always 0
+else:
+    print "A不是3"
+end_if_else:
+printflush message1
+```
 
 ## 结束 (End)
 
