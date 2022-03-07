@@ -12,6 +12,9 @@ ubind @flare
 set unit_reference @unit
 ```
 `unit_reference` is the variable that contains the reference to the bound unit.
+
+![image](https://user-images.githubusercontent.com/63439268/157014208-67a6e59a-10c6-436e-8183-4c2e4da09ed9.png)
+
 - You can bind a specific by inputting it's reference into the ubind instruction. Example:
 ```
 ubind unit_reference

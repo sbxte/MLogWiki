@@ -17,6 +17,8 @@ control enabled reactor boolean 0 0 0
 op add i i 1
 op mod i i @links
 ```
+![image](https://user-images.githubusercontent.com/63439268/157014517-8afc8e04-0782-4252-a1e2-6e321aaa4a2c.png)
+
 This iterates through all connected blocks and disables any that are lacking cryofluid.
 
 > [Taken from highfire's explanation on the mindustry discord](https://discord.com/channels/391020510269669376/742769933926269069/867577676059115520)
