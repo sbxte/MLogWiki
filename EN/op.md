@@ -25,4 +25,6 @@ op add c a b
 print c
 printflush message1
 ```
+![image](https://user-images.githubusercontent.com/63439268/157014816-0fff6f07-8780-4be8-b28b-dc883305707c.png)
+
 This will add `a` and `b` and store the result in `c` which is then printed into a message block.
