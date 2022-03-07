@@ -66,7 +66,8 @@ You can colorize your printed texts with colors. The syntax is quite simple,
 "[red] this is a red text!"
 printflush message1
 ```
-![image](https://github.com/Lin-cat/text/blob/main/image/image%20(3).png)
+![image](https://user-images.githubusercontent.com/63439268/157012006-b4db8bdf-c892-4abf-b210-09268e312dae.png)
+
 
 <details>
 <summary>Tap on me to reveal list of color Codes</summary>
@@ -115,7 +116,7 @@ Or you can directly input hex codes. For example,
 ```
 print "[#ff0000] This is a red text!\n"
 print "[#00ff00] This is a green text!\n"
-print "[#0000ff] This is a green text!"
+print "[#0000ff] This is a blue text!"
 printflush message1
 ```
-![image](https://github.com/Lin-cat/text/blob/main/image/image%20(2).png)
+![image](https://user-images.githubusercontent.com/63439268/157013142-0a49d233-21c8-49e6-80f0-3b204c7cf201.png)
