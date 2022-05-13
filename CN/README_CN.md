@@ -13,8 +13,6 @@
 <div></div>
 
 
-
-
 # 目录
 
 本Wiki有多个语言版本.
@@ -22,6 +20,7 @@
 - [中文](README_CN.md)
 
 本Wiki中的内容:
+- [推荐的逻辑蓝图](schematics_CN.md)
 - [打印](print_CN.md)(Prints)
 - [变量](variables_CN.md)(Variables)
 - [赋值](set_CN.md)
@@ -32,7 +31,6 @@
 - [获取连接](getlink_CN.md)
 - [检索](lookup_CN.md)
 - [编辑](editing_CN.md)
-- [推荐的逻辑蓝图](schematics_CN.md)
 
 # 额外资料
 
