@@ -32,7 +32,7 @@
 - [获取连接](getlink_CN.md)
 - [检索](lookup_CN.md)
 - [编辑](editing_CN.md)
-- [推荐的逻辑蓝图](EN/schematics_CN.md)
+- [推荐的逻辑蓝图](schematics_CN.md)
 
 # 额外资料
 
