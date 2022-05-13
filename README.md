@@ -29,6 +29,7 @@ Contents in this wiki:
 - [Getlink](EN/getlink.md)
 - [Lookup](EN/lookup.md)
 - [Editing](EN/editing.md)
+- [Recommended Logic Schematics](EN/schematics.md)
 
 # Additional Resources
 
