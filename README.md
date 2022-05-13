@@ -20,6 +20,7 @@ This wiki is available in multiple languages.
 - [Chinese](CN/README_CN.md)
 
 Contents in this wiki:
+- [Logic Schematics](EN/schematics.md)
 - [Prints](EN/print.md)
 - [Variables](EN/variables.md)
 - [Set](EN/set.md)
@@ -29,7 +30,7 @@ Contents in this wiki:
 - [Getlink](EN/getlink.md)
 - [Lookup](EN/lookup.md)
 - [Editing](EN/editing.md)
-- [Recommended Logic Schematics](EN/schematics.md)
+
 
 # Additional Resources
 
