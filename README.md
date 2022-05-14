@@ -17,7 +17,7 @@ Perhaps a good place for newbies to start.
 
 This wiki is available in multiple languages.
 - [English](README.md)
-- [Chinese](CN/README_CN.md)
+- [Chinese](CN/README_CN.md) (thanks to [Lin-cat](https://github.com/Lin-cat))
 
 Contents in this wiki:
 - [Logic Schematics](EN/schematics.md)
