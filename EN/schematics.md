@@ -7,7 +7,7 @@ Ping SByte#7574 on discord for issues with spreadsheet or submit a pull request.
 <!-- previously on https://docs.google.com/spreadsheets/d/1LQXT5KLEAX0OmkofKDUdt6xcSattJKX6_A9beSJ1A7w/edit#gid=0 -->
 
 | Name | Description | Author | Schematic Link | Source Code | Version | Last Updated |
-| :--- | --- | --- | :---: | :---: | :--- | ---: |
+| :--- | --- | :---: | :---: | :---: | :--- | ---: |
 | CCAD Recon. Control |	payEnter magic (someone give me a better description) |	Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/640604827344306207/961263533859962912) | | v3a28 | 4/6/2022
 | CCER GP Reactor Controller | **Reactor Controller** <br> General Purpose Reactor Controller <br><br>- Self-starts thorium reactors. <br>- Determines optimal time to start impacts based on input power, system load, stored battery power, and overdrive influence. <br>- Overdrive will be enabled when sufficient power to do so. <br>- Split-brain function lets you have multiple controllers in a large power plant controlling different reactors. just connect all controllers to the same memcell. | Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/422855426242248725/934609395063595030) | | v5.28 | |
 | CCMR Mining Brane | | Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/640604827344306207/944295882470326425) | | v4.17 | 2/19/2022  |
