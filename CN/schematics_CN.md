@@ -7,7 +7,7 @@
 <!-- 前情提要https://docs.google.com/spreadsheets/d/1LQXT5KLEAX0OmkofKDUdt6xcSattJKX6_A9beSJ1A7w/edit#gid=0 -->
 
 | 名称 | 描述 | 作者 | 蓝图链接 | 源码 | 版本 | 最后更新 |
-| :--- | --- | --- | :---: | :---: | :--- | ---: |
+| :--- | --- | :---: | :---: | :---: | :--- | ---: |
 | CCAD Recon. Control |	payEnter魔法 (有能人给我一个更好的描述吗) |	Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/640604827344306207/961263533859962912) | | v3a28 | 2022/04/06
 | CCER GP Reactor Controller | **反应堆控制器** <br> 通用反应堆控制器 <br><br>- 自启动钍反应堆. <br>- 基于输入功率、系统负载、电池存储的电力和超速效果确定最佳启动时间. <br>- 当电力足够时会启动超速穹顶投影器. <br>- 脑裂功能让你可以在一个大型发电厂中用多个控制器控制不同的反应堆. 只需将所有控制器链接到同一个内存元即可. | Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/422855426242248725/934609395063595030) | | v5.28 | |
 | CCMR Mining Brane | | Cirrocco | [Main Discord](https://discord.com/channels/391020510269669376/640604827344306207/944295882470326425) | | v4.17 | 2022/02/19  |
