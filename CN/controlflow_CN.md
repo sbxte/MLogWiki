@@ -18,6 +18,8 @@ print "这条会被打印出来!"
 printflush message1
 ```
 
+![QQ浏览器截图20220526174029](https://user-images.githubusercontent.com/63439268/170462900-7ee04e52-7295-4595-8897-b71db51be33b.png)
+
 跳转有8个运算符 *([请查看运算部分](op_CN.md))*:
 - `==` 相等
 - `!=` 不相等
@@ -42,6 +44,8 @@ end_if_else:
 printflush message1
 ```
 
+![QQ浏览器截图20220526174043](https://user-images.githubusercontent.com/63439268/170462936-fed5116c-080e-4f17-919b-1cbe8cafc768.png)
+
 ## 结束 (End)
 
 总是跳转至0还有一个更容易使用的对应项, `end`.
@@ -62,6 +66,8 @@ end
 print "这条不会"
 ```
 
+![QQ浏览器截图20220526174056](https://user-images.githubusercontent.com/63439268/170462998-c519039a-96dd-4487-8527-02b3ce40c07e.png)
+
 ## 等待 (Wait)
 
 等待指令用于在执行下条指令之前暂停执行等待一段时间.
@@ -80,6 +86,7 @@ print "[blue]你好!"
 printflush message1
 wait 1
 ```
+![image](https://user-images.githubusercontent.com/63439268/157013612-706ddb9d-297f-4b4a-a16d-902cc7558361.gif)
 
 ## @counter
 
@@ -90,6 +97,8 @@ set @counter 3
 print "这条不会"
 printflush message1
 ```
+![QQ浏览器截图20220526174056](https://user-images.githubusercontent.com/63439268/170462998-c519039a-96dd-4487-8527-02b3ce40c07e.png)
+
 在本示例中, 我们将`@counter`的值设为3后, 会跳过第二条`print`指令直接执行`printflush`指令.
 
 它还可以用于跳转到不同的位置以创建一个数组.
@@ -109,3 +118,4 @@ printflush message1
 op add index index 1
 op mod index index 4
 ```
+![image](https://user-images.githubusercontent.com/63439268/157013753-66d43a58-833f-43a2-8053-7c843f741866.gif)
