@@ -9,7 +9,7 @@
 print "你好世界!"
 printflush message1
 ```
-![image](https://user-images.githubusercontent.com/94273523/154833019-9249388a-a101-4f6d-81c1-0485b89c18be.png)
+![QQ浏览器截图20220526173529](https://user-images.githubusercontent.com/63439268/170463417-6fe73164-a54c-4f81-baf3-9e39f2812f60.png)
 
 和变量(variables)
 ```
@@ -34,13 +34,13 @@ print "这是一行"
 print "\n这是另一行"
 printflush message1
 ```
-![image](https://user-images.githubusercontent.com/94273523/154833051-ba869cf0-043f-450f-81ac-57f3a46153d6.png)
+![QQ浏览器截图20220526173551](https://user-images.githubusercontent.com/63439268/170463492-df841e60-d43e-482a-b36a-068b52521356.png)
 
 ```
 print "这是行1\n这是行2"
 printflush message1
 ```
-![image](https://user-images.githubusercontent.com/94273523/154833120-50b93082-fd54-4de5-9ef4-38e8ebca21fa.png)
+![QQ浏览器截图20220526173603](https://user-images.githubusercontent.com/63439268/170463567-70a9f2a5-2932-4688-ba3f-78e3b070bc98.png)
 
 然而, 你可以打印到信息板的内容是有上限的. *内部值可在[这里](https://github.com/Anuken/Mindustry/blob/master/core/src/mindustry/world/blocks/logic/MessageBlock.java#L23)找到*
 
@@ -63,6 +63,7 @@ printflush message1
 "[red]这是一条红色文本!"
 printflush message1
 ```
+![QQ浏览器截图20220526173956](https://user-images.githubusercontent.com/63439268/170463612-ec778e23-69a0-4925-a449-af00864c1b07.png)
 
 <details>
 <summary>点击我以显示颜色代码列表</summary>
@@ -110,6 +111,7 @@ printflush message1
 ```
 print "[#ff0000] 这是一条红色文本!\n"
 print "[#00ff00] 这是一条绿色文本!\n"
-print "[#0000ff] 这是另一条绿色文本!"
+print "[#0000ff] 这是一条蓝色文本!"
 printflush message1
 ```
+![QQ浏览器截图20220526173934](https://user-images.githubusercontent.com/63439268/170463632-43f52dd7-9b91-45f0-9439-f1f6cee09f71.png)
