@@ -17,7 +17,6 @@ goHere:
 print "这条会被打印出来!"
 printflush message1
 ```
-
 ![QQ浏览器截图20220526174029](https://user-images.githubusercontent.com/63439268/170462900-7ee04e52-7295-4595-8897-b71db51be33b.png)
 
 跳转有8个运算符 *([请查看运算部分](op_CN.md))*:
@@ -43,7 +42,6 @@ else:
 end_if_else:
 printflush message1
 ```
-
 ![QQ浏览器截图20220526174043](https://user-images.githubusercontent.com/63439268/170462936-fed5116c-080e-4f17-919b-1cbe8cafc768.png)
 
 ## 结束 (End)
@@ -65,7 +63,6 @@ print "这条会被打印出来"
 end
 print "这条不会"
 ```
-
 ![QQ浏览器截图20220526174056](https://user-images.githubusercontent.com/63439268/170462998-c519039a-96dd-4487-8527-02b3ce40c07e.png)
 
 ## 等待 (Wait)
