@@ -17,6 +17,9 @@ control enabled reactor boolean 0 0 0
 op add i i 1
 op mod i i @links
 ```
+
+![image](https://user-images.githubusercontent.com/63439268/157014517-8afc8e04-0782-4252-a1e2-6e321aaa4a2c.png)
+
 这将遍历所有被连接的方块, 并禁用任何缺少冷冻液的方块.
 
 > [摘自highfire在Mindustry Discord上的解释](https://discord.com/channels/391020510269669376/742769933926269069/867577676059115520)
