@@ -20,17 +20,16 @@
 - [中文](README_CN.md)
 
 本Wiki中的内容:
-- [推荐的逻辑蓝图](schematics_CN.md)
-- [打印](print_CN.md)(Prints)
-- [变量](variables_CN.md)(Variables)
-- [赋值](set_CN.md)
-- [运算](op_CN.md)
-- [控制流 (跳转)](controlflow_CN.md)
-- [获取连接](getlink_CN.md)
-- [单位绑定](ubind_CN.md)
-- [获取连接](getlink_CN.md)
-- [检索](lookup_CN.md)
-- [编辑](editing_CN.md)
+- [逻辑蓝图](schematics_CN.md)
+- [打印](print_CN.md) (Prints)
+- [变量](variables_CN.md) (Variables)
+- [赋值](set_CN.md) (Set)
+- [运算](op_CN.md) (Operation)
+- [控制流 (跳转)](controlflow_CN.md) (Control flow (jumping))
+- [单位绑定](ubind_CN.md) (Unit Bind)
+- [获取连接](getlink_CN.md) (Getlink)
+- [检索](lookup_CN.md) (Lookup)
+- [编辑](editing_CN.md) (Editing)
 
 
 # 额外资料

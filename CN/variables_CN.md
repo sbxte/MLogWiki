@@ -15,10 +15,10 @@
 - 建筑类型
 - 物品类型
 - 液体类型
-- 可探测 Sensables (在传感器中使用)
+- 可探测 (在传感器中使用)
 - 物块类型
 
-探测 (Sensoring) 属性仅对实体有效.
+探测属性仅对实体有效.
 
 ## 赋值和运算 (Set and Operation)
 
@@ -37,8 +37,8 @@
 处理器独有:
 - `@counter` - 处理器当前正在执行的指令的索引. 该索引从0开始, 即第一条指令位于0, 而不是1.
 - `@unit` - 处理器当前绑定的单位.
-- `@thisx` - 处理器当前的X坐标. 奇数宽度时处理器为整数, 偶数宽度时处理器为小数. Whole numbers for odd width processors and fractional for even widths.
-- `@thisy` - 处理器当前的Y坐标. 奇数宽度时处理器为整数, 偶数宽度时处理器为小数. Whole numbers for odd width processors and fractional for even widths.
+- `@thisx` - 处理器当前的X坐标. 奇数宽度的处理器为整数, 偶数宽度的处理器为小数.
+- `@thisy` - 处理器当前的Y坐标. 奇数宽度的处理器为整数, 偶数宽度的处理器为小数. 
 - `@ipt` - 逻辑处理器每帧执行的指令条数. 微型处理器为2, 逻辑处理器为8, 超核处理器为25.
 - `@links` - 处理器连接的建筑数量. 这通常用于与`getlink`一起使用以遍历建筑.
 
