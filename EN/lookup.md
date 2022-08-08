@@ -140,7 +140,7 @@ It can be used to look up a unit/item/liquid/building type by index.
 1. duct-bridge
 1. mechanical-pump
 1. rotary-pump
-1. thermal-pump
+1. impulse-pump
 1. conduit
 1. pulse-conduit
 1. plated-conduit
